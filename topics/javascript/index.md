@@ -5,7 +5,7 @@ display_name: JavaScript
 logo: javascript.png
 released: December 4, 1995
 short_description: JavaScript is an object-oriented programming language used alongside
-  HTML and CSS to give functionality to web pages.
+  HTML and CSS to give functionality to web GH pages.
 topic: javascript
 url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 wikipedia_url: https://en.wikipedia.org/wiki/JavaScript
